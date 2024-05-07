@@ -1,0 +1,26 @@
+p { text-align: center; font-size: 20px; color: gainsboro;} 
+body { background: #424242; }
+h1{text-align: center; font-size: 35px; background: #2E2E2E;color: gainsboro;}
+strong { color: black; }
+em strong {color: darkgoldenrod;}
+#Cortina {
+    width: 70%;
+    height: 550px;
+    border: 10px #2E2E2E solid;
+ }
+ h2{text-align: center; font-size: 35px; background: #2E2E2E;color: gainsboro; }
+li{ text-align:left ; font-size: 20px; color: gainsboro;}
+#persiana{
+     border: 8px #2E2E2E solid;
+     width: 50%;
+     height: 550px;
+}
+
+Nav a{
+    color: white;
+    position: relative;
+    Left: 46%;
+}
+#logos{
+    display: align;
+}
